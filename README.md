@@ -16,7 +16,6 @@ A collection of Jupyter notebooks for Nenets language processing: creating a wor
 ## 📊 Data Sources
 - Newspaper [*Nyaryana Vynder*](https://nvinder.ru/)
 - Collection of Nenets fairy tales *Ненецие” лаханако”* (N.M. Yangasova)
-- Collection of short stories *Ленинʼ еˮэмня ӈэдаˮ лаханакоˮ* (A.T. Kononov)
 - [Community](https://vk.com/nn.yanao) of the socio-political national newspaper of the Yamalo-Nenets Autonomous Okrug *Nyaryana Ngerm* on the social network VKontakte
 - [Community](https://vk.com/club173849556) of the socio-political national newspaper of the Yamalo-Nenets Autonomous Okrug *Nyaryana Ngerm* for speakers of the Forest Nenets dialect on the social network VKontakte
 - [Page](http://www.yamalexpedition.ru/nen/blog-nen) of diary entries in the Forest Nenets language on the website of the ethnographic expedition *Real People*
@@ -54,7 +53,6 @@ MIT License
 ## 📊 Источники данных
 - Газета [*Nyaryana Vynder*](https://nvinder.ru/)
 - Сборник ненецких сказок *Ненецие” лаханако”* (Н.М. Янгасова)
-- Сборник рассказов *Ленинʼ еˮэмня ӈэдаˮ лаханакоˮ* (А.Т. Кононов)
 - [Сообщество](https://vk.com/nn.yanao) общественно-политической 
   национальной газеты Ямало-Ненецкого автономного округа *Няръяна Нгэрм* в 
   социальной сети ВКонтакте
