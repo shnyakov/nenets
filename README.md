@@ -70,3 +70,19 @@ MIT License
 
 ## 📜 Лицензия
 MIT License
+
+## 📚 Citation
+
+If you use this repository in your research or publications, please cite it as follows:
+
+```bibtex
+@software{pavel_shnyakov_2025_17369083,
+  author       = {Pavel Shnyakov},
+  title        = {shnyakov/nenets: Initial Release – Nenets Language Processing},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17369083},
+  url          = {https://doi.org/10.5281/zenodo.17369083}
+}
